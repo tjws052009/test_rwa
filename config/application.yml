@@ -1,0 +1,10 @@
+app:
+  domain: http://localhost:4567
+
+db:
+  default:
+    host: localhost
+    port: 3306
+    database: rwa
+    username: root
+    password:
